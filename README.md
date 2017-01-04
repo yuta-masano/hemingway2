@@ -28,8 +28,8 @@ __[config.toml](https://github.com/beli3ver/hemingway2/blob/master/exampleSite/c
 ```toml
 baseurl = "https://example.com"
 languageCode = "en"
-title = "Hemingway"
-theme = "hemingway"
+title = "Hemingway2"
+theme = "hemingway2"
 copyright = "&copy; <a href=\"https://github.com/beli3ver\">Malte Kiefer</a> 2016"
 disqusShortname = "shortname"
 googleAnalytics = ""
