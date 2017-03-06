@@ -1,5 +1,6 @@
 <section class="section">
   <div class="container has-text-centered">
+    <p>{{ with .Site.Params.profile }}<img src="{{ . }}" width="64" height="64"><br>{{ end }}</p>
     <p>{{ .Site.Copyright | safeHTML }}</p>
   </div>
 </section>
